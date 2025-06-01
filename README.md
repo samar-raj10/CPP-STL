@@ -12,4 +12,4 @@
 <li>String problems
 </ul>
 <br>
-<p>Author: Samar Raj</p>
+<p>Author: SAMAR RAJ</p>
